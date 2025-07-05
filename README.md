@@ -92,6 +92,6 @@ Biased toward features with more level
 In practice, decision trees are often used as building blocks for more powerful ensemble methods like Random Forests and Gradient Boosted Trees, which help improve accuracy and robustness.
 
 #OUTPUT
+(https://github.com/user-attachments/assets/b647a1a0-c9cb-4bb9-844d-7f43d2d8b83b)
 
-![Image](https://github.com/user-attachments/assets/b647a1a0-c9cb-4bb9-844d-7f43d2d8b83b
 
