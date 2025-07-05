@@ -13,8 +13,6 @@ MENTOR : NEELA SANTOSH
 
 #DESCRIPITION
 
-Certainly! Here's a detailed description of Decision Tree implementation, explained in over 500 words, without any code:
-Decision Tree Implementation: A Detailed Description
 A Decision Tree is a popular supervised machine learning algorithm used for both classification and regression tasks. It mimics human decision-making, making it easy to understand and interpret. At its core, a decision tree splits a dataset into branches based on certain decision rules derived from the input features, ultimately reaching outcomes in the form f leaf nodes.
 Understanding the Structure
 The structure of a decision tree resembles a flowchart:
