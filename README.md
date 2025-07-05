@@ -93,4 +93,4 @@ In practice, decision trees are often used as building blocks for more powerful 
 
 #OUTPUT:
 
-![Image](https://github.com/user-attachments/assets/9c3ba2c6-f078-4f97-b033-667046a6bf28
+![Image](https://github.com/user-attachments/assets/ba75d302-0ff4-4942-ae34-869f9c579578)
